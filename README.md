@@ -12,9 +12,10 @@ The motive behind this project was to create a note taker. It will save the user
 1. Open repo in terminal.
 2. Run ‘node server’ to start application
 3. Open corresponding localhost PORT using browser or Insomnia
-4. ******
+4. Enter title and content for notes
+5. Click save button to save note
 
 ![Screenshot of server running on local host PORT in Imsomnia](./images/insomniaSS.png)
 
 ## Video Demo Link
-[Click here for Demo Video]()
+[Click here for Demo Video](https://watch.screencastify.com/v/xa1XkwD52UTy0PWt3B6M)
